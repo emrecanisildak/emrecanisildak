@@ -1,1 +1,3 @@
-### Enjoy
+### Hi, I am Emrecan. 
+## I'm a C++ and Qt Developer!
+## Connect with me emrecanisildak@gmail.com ...
