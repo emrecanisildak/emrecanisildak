@@ -3,7 +3,7 @@
 
 I am a C++ developer specializing in GUI development using the Qt Framework. I am also proficient in QML and constantly seek to expand my knowledge and skills in these technologies.
 
-##Skills
+## Skills
 - C++ 
 - Qt/QML
 - Simulation
@@ -11,7 +11,7 @@ I am a C++ developer specializing in GUI development using the Qt Framework. I a
 - git, SVN
 - Linux
 
-##Contact
+## Contact
 - E-mail: emrecanisildak@gmail.com
 - [Linkedin](https://www.linkedin.com/in/emrecanisildak/)
 
